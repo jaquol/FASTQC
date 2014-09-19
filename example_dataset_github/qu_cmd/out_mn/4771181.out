@@ -1,0 +1,31 @@
+Sender: LSF System <lsfadmin@node8-11>
+Subject: Job 4771181: <makeFASTQ.batch03.file09> in cluster <minerva> Done
+
+Job <makeFASTQ.batch03.file09> was submitted from host <minerva4> by user <quilej01> in cluster <minerva>.
+Job was executed on host(s) <node8-11>, in queue <scavenger>, as user <quilej01> in cluster <minerva>.
+</hpc/users/quilej01> was used as the home directory.
+</hpc/users/quilej01/HapMap_RNASeq/example_dataset_github/qu_cmd> was used as the working directory.
+Started at Fri Sep 19 16:56:37 2014
+Results reported on Fri Sep 19 16:58:37 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/hpc/users/quilej01/HapMap_RNASeq/example_dataset_github/qu_cmd/generate.batch03.file09.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   120.76 sec.
+    Max Memory :                                 23 MB
+    Average Memory :                             4.00 MB
+    Total Requested Memory :                     2000.00 MB
+    Delta Memory :                               1977.00 MB
+    Max Processes :                              5
+    Max Threads :                                6
+
+The output (if any) follows:
+
